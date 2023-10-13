@@ -1,0 +1,69 @@
+{
+    "product": "civillight",
+    "init": "2023101212",
+    "dataseries": [
+        {
+            "date": 20231013,
+            "weather": "mcloudy",
+            "temp2m": {
+                "max": 30,
+                "min": 23
+            },
+            "wind10m_max": 3
+        },
+        {
+            "date": 20231014,
+            "weather": "pcloudy",
+            "temp2m": {
+                "max": 30,
+                "min": 23
+            },
+            "wind10m_max": 3
+        },
+        {
+            "date": 20231015,
+            "weather": "cloudy",
+            "temp2m": {
+                "max": 30,
+                "min": 23
+            },
+            "wind10m_max": 3
+        },
+        {
+            "date": 20231016,
+            "weather": "cloudy",
+            "temp2m": {
+                "max": 31,
+                "min": 25
+            },
+            "wind10m_max": 3
+        },
+        {
+            "date": 20231017,
+            "weather": "cloudy",
+            "temp2m": {
+                "max": 28,
+                "min": 24
+            },
+            "wind10m_max": 3
+        },
+        {
+            "date": 20231018,
+            "weather": "cloudy",
+            "temp2m": {
+                "max": 26,
+                "min": 24
+            },
+            "wind10m_max": 2
+        },
+        {
+            "date": 20231019,
+            "weather": "lightrain",
+            "temp2m": {
+                "max": 25,
+                "min": 23
+            },
+            "wind10m_max": 2
+        }
+    ]
+}
